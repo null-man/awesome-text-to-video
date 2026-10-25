@@ -92,6 +92,9 @@ Key trends:
 | 🌀 **Morphic / Morph Studio** | Morph Studio | All-in-one creative platform | Varies | 15+ models, canvas editing, custom model training | [morphic.com](https://www.morphic.com/) |
 | ✂️ **InVideo AI** | InVideo | Social media / marketing | 1080p | 5000+ templates, AI script-to-video workflow | [invideo.io](https://invideo.io/) |
 | 🎥 **GrokVideo Studio** | Edison Yang (independent) | Text/image-to-video trial | Short clips | Independent Grok Imagine API app (**not official xAI/X**); free trial credits | [grokvideogenerator.dev](https://grokvideogenerator.dev) |
+| 🎥 **Alors On Danse Video Maker** | Edison Yang (independent) | Photo-to-video | Short clips | Independent AI: two photos → 13s studio dance video (Paid; not affiliated with Stromae/TikTok)| [alorsondansevideo.com](https://alorsondansevideo.com) |
+| 🎥 **Bad Times AI** | Edison Yang (independent) | Photo-to-video | Short clips | Independent AI dance effect: one photo → 14–15s portrait dance video (Paid from $7.99)| [badtimesai.dev](https://badtimesai.dev) |
+| 🎥 **I Found You in the Crowd AI** | Edison Yang (independent) | Photo-to-video | Short clips | Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99)| [ifoundyouinthecrowdai.com](https://ifoundyouinthecrowdai.com) |
 | 🎩 **Magic Hour** | Magic Hour | Multi-format creative suite | 1080p | Face swap, talking photos, headshots, clothes swapper | [magichour.ai](https://magichour.ai/) |
 | 🛒 **Creatify** | Creatify | UGC-style ad generation | 1080p | E-commerce focused, ad performance tracking | [creatify.ai](https://creatify.ai/) |
 
